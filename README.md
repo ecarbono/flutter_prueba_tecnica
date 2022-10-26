@@ -47,11 +47,11 @@ Vista Opcion 1
 </tr>
 <tr>
 <td>
-<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="128"/>
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="200"/>
   
 </td>
 <td>
-<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="128"/>
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="200"/>
   
 </td>
 </tr>
@@ -63,13 +63,13 @@ Vista Opcion 1
 <img width="441" height="1">
 </td>
 </tr>
-<td>
-<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.56.png" width="128"/>
+<td align="center">
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.56.png" width="200"/>
   
 </td>
-<td>
+<td align="center">
 
-<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.59.00.png" width="128"/>
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.59.00.png" width="200"/>
   
 </td>
 </table>
