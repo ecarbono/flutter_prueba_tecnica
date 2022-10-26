@@ -30,6 +30,8 @@ PostgreSQL 15
 ## Setings
 * En la ruta del proyecto lib/provider/variables.dart, se encuentra la variable del endpoint del servicio de nodejs
 const url = "http://localhost:8484/api/users";
+nota : Si sale SocketException: Connection refused al momento de consultlar o registrar usuario, se debe cambiar la ip de la varialbe url por la ip del equipo en que se esta realizando la prueba ej: const url = "http://192.168.0.12:8484/api/users";
+
 
 
 
