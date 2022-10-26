@@ -11,8 +11,14 @@ de la aplicación.
 
 ## Getting Started
 
-Para la funcionalidad de la bd que consume el aplicativo, se creó una bd en postgres y un servicio en nodejs.
-la base de datos posgrest está en la carpeta bd junto al script de la tabla utlizada, se debe importar en un servicio local de PostgreSQL
+Para la funcionalidad de la bd que consume el aplicativo, se creó una bd en Posgresql 15 y un servicio en nodejs.
+la base de datos Posgresql está en la carpeta bd junto al script de la tabla utlizada, se debe implementar en un servicio local de nodejs.
+
+* Git del proyecto en node [https://github.com/ecarbono/api_prueba_tecnic.git]
+
+## Comandos para proyecto de node: 
+-npm i
+-node app.js
 
 ## Bade de datos versión
 PostgreSQL 15
@@ -21,7 +27,6 @@ PostgreSQL 15
 * En la ruta del proyecto lib/provider/variables.dart, se encuentra la variable del endpoint del servicio de nodejs
 const url = "http://localhost:8484/api/users";
 
-* Git del proyecto en node [https://github.com/ecarbono/api_prueba_tecnic.git]
 
 
 ## Resultados
