@@ -32,7 +32,7 @@ const url = "http://localhost:8484/api/users";
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Vista inicial
 </small>
 </p>
 </th>
@@ -40,7 +40,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Vista Opcion 1
 </small>
 </p>
 </th>
@@ -57,17 +57,25 @@ EXAMPLE TEXT
 </tr>
 <tr>
 <td align="center">
-Column 1
+<img width="441" height="1">
 </td>
 <td align="center">
-Column 2
+<img width="441" height="1">
 </td>
 </tr>
-</table>
-
+<td>
 <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.56.png" width="128"/>
+  
+</td>
+<td>
 
 <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.59.00.png" width="128"/>
+  
+</td>
+</table>
+
+
+
 
 
 # flutter-prueba-tecnica
