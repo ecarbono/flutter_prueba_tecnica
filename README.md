@@ -27,10 +27,10 @@ const url = "http://localhost:8484/api/users";
 ## Resultados
 
 <div class="row">
-  <div class="column">
+  <div class="column small-3 medium-auto large-4">
   <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="128"/>
   </div>
-  <div class="column">
+  <div class="column small-3 medium-auto large-4">
   <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="128"/></div>
 </div>
 
