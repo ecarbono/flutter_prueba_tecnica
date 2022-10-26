@@ -15,7 +15,15 @@ class CustomCard extends StatelessWidget {
     return Card(
       elevation: 5,
       margin: const EdgeInsets.only(bottom: 12),
+      shape: RoundedRectangleBorder(
+        side: const BorderSide(color: Colors.white, width: 1.0),
+        borderRadius: BorderRadius.circular(10.0),
+      ),
       child: ListTile(
+        shape: RoundedRectangleBorder(
+          side: const BorderSide(color: Colors.white, width: 1.0),
+          borderRadius: BorderRadius.circular(10.0),
+        ),
         tileColor: Theme.of(context).primaryColor,
         title: Text(
           title,

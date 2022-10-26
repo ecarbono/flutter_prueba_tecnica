@@ -8,6 +8,7 @@ class ViewUsuarios extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Usuarios',
       home: Scaffold(
         appBar: AppBar(
@@ -36,23 +37,31 @@ class ViewUsuarios extends StatelessWidget {
                       model.direcList.add(TextEditingController());
                       return Container(
                         margin: const EdgeInsets.symmetric(vertical: 6),
-                        child: ListTile(
-                          title:
-                              Text("Nombre: ${model.usuarios[index].nombre}"),
-                          subtitle: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                  "Apellido: ${model.usuarios[index].apellido}"),
-                              Text(
-                                  "Fecha Nacimiento: ${model.usuarios[index].fechanacimiento}"),
-                              Text(
-                                  "Dirección 1: ${model.usuarios[index].direccion_1}"),
-                              Text(
-                                  "Dirección 2: ${model.usuarios[index].direccion_2}"),
-                              Text(
-                                  "Dirección 3: ${model.usuarios[index].direccion_3}"),
-                            ],
+                        child: Card(
+                          elevation: 4,
+                          shape: RoundedRectangleBorder(
+                              side: const BorderSide(
+                                  color: Colors.white, width: 1.0),
+                              borderRadius: BorderRadius.circular(10.0)),
+                          color: Colors.white,
+                          child: ListTile(
+                            title:
+                                Text("Nombre: ${model.usuarios[index].nombre}"),
+                            subtitle: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                    "Apellido: ${model.usuarios[index].apellido}"),
+                                Text(
+                                    "Fecha Nacimiento: ${model.usuarios[index].fechanacimiento}"),
+                                Text(
+                                    "Dirección 1: ${model.usuarios[index].direccion_1}"),
+                                Text(
+                                    "Dirección 2: ${model.usuarios[index].direccion_2}"),
+                                Text(
+                                    "Dirección 3: ${model.usuarios[index].direccion_3}"),
+                              ],
+                            ),
                           ),
                         ),
                       );
