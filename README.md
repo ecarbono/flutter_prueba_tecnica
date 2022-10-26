@@ -46,11 +46,11 @@ Vista Opcion 1
 </th>
 </tr>
 <tr>
-<td>
+<td align="center">
 <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="200"/>
   
 </td>
-<td>
+<td align="center">
 <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="200"/>
   
 </td>
@@ -58,9 +58,19 @@ Vista Opcion 1
 <tr>
 <td align="center">
 <img width="441" height="1">
+<p> 
+<small>
+Vista Usuarios
+</small>
+</p>
 </td>
 <td align="center">
 <img width="441" height="1">
+<p> 
+<small>
+Vista Formulario 
+</small>
+</p>
 </td>
 </tr>
 <td align="center">
