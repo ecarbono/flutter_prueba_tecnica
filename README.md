@@ -33,7 +33,7 @@ const url = "http://localhost:8484/api/users";
 
 
 
-## Resultados
+## Resultados en un emulador ios
 
 <table>
 <tr>

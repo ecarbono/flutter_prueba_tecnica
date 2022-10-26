@@ -59,9 +59,6 @@ class Usuario {
     try {
       final response = await http.get(
         uri,
-        headers: {"Content-Type": "application/json"},
-      ).timeout(
-        const Duration(seconds: 15),
       );
       if (response.statusCode == 200 && response.body != "") {
         valor = json.decode(response.body);
