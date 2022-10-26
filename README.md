@@ -26,11 +26,44 @@ const url = "http://localhost:8484/api/users";
 
 ## Resultados
 
-<div class="row ltr-on-small rtl-on-medium">
-	<div class="column small-6"><img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="128"/></div>
-	<div class="column small-6"><img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="128"/></div>
-</div>
-
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.50.png" width="128"/>
+  
+</td>
+<td>
+<img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.53.png" width="128"/>
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
 
 <img src="https://github.com/ecarbono/flutter_prueba_tecnica/blob/main/imagenes/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202022-10-26%20at%2012.58.56.png" width="128"/>
 
