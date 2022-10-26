@@ -12,10 +12,10 @@ de la aplicación.
 ## Getting Started
 
 Para la funcionalidad de la bd que consume el aplicativo, se creó una bd en postgres y un servicio en nodejs.
-la base de datos posgrest está en la carpeta bd junto al script de la tabla utlizada, se debe importar en un servicio local de postgresql
+la base de datos posgrest está en la carpeta bd junto al script de la tabla utlizada, se debe importar en un servicio local de PostgreSQL
 
 ## Bade de datos versión
-Posgresql 15
+PostgreSQL 15
 
 ## Setings
 * En la ruta del proyecto lib/provider/variables.dart, se encuentra la variable del endpoint del servicio de nodejs
