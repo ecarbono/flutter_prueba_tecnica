@@ -20,6 +20,10 @@ la base de datos Posgresql está en la carpeta bd junto al script de la tabla ut
 -npm i
 -node app.js
 
+## Comandos para proyecto de flutter: 
+-flutter pub get
+
+
 ## Bade de datos versión
 PostgreSQL 15
 
